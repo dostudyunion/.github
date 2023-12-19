@@ -15,4 +15,5 @@ https://github.com/orgs/dostudyunion/discussions
 + [사용자 관리 서비스]()
 + [블록 관리 서비스](https://github.com/dostudyunion/symtki-block-management-service)
 
-연관 키워드(태그명) : symtki
+관련 토론 : https://github.com/orgs/dostudyunion/discussions?discussions_q=is%3Aopen+심트키
+
